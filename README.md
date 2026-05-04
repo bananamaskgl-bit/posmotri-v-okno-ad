@@ -1,1 +1,1 @@
-# posmotri-v-okno-ad
+https://github.com/bananamaskgl-bit/posmotri-v-okno-ad
